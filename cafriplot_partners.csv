@@ -1,10 +1,10 @@
-Acronym;Full_name;Subheader;website_url;logo_url,
-IRD;Institut de Recherche pour le Développement;Montpellier, France;https://www.ird.fr/;https://github.com/PPierre22/phenofleet/blob/main/pictures/IRD_logo_1.png
-AMAP;AMAP laboratory;Montpellier, France;https://amap.cirad.fr/;https://github.com/PPierre22/phenofleet/blob/main/pictures/AMAP_logo.jpg
-UYI;Université de Yaoundé I;Yaoundé, Cameroon;https://uy1.uninet.cm/;https://github.com/PPierre22/phenofleet/blob/main/pictures/UYI.png
-LaBosystE;LaBosystE laboratory;Yaoundé, Cameroon;;https://github.com/PPierre22/phenofleet/blob/main/pictures/logo_labosyste.png
-ENEF;Ecole Nationale des Eaux et Forêts;Mbalmayo, Cameroon;https://enefcameroun.cm/;https://github.com/PPierre22/phenofleet/blob/main/pictures/Logo_ENEF_highRes.jpg
-BRLU;Herbarium of Université Libre de Bruxelles;Brussels, Belgium;https://evb.ulb.be/wordpress/herbarium/;https://github.com/gdauby/cafriplots_repo/blob/main/logos/brlu.png
-MBG;Missouri Botanical Garden;Central African program;https://www.missouribotanicalgarden.org/;https://github.com/gdauby/cafriplots_repo/blob/main/logos/avatar.png,
-ISEA;Institut Supérieur d’Etudes Agronomiques de Bengamisa;Kisangani, Democratic Republic of the Congo;;https://github.com/PPierre22/phenofleet/blob/main/pictures/LOGO%20ISEA%20BENGAMISA.png
-TERRA ;Gembloux Agro-Bio Tech;Gembloux, Belgium;https://www.terra.uliege.be/;https://github.com/PPierre22/phenofleet/blob/main/pictures/TERRA_Gembloux.png
+Acronym,Country,Full_name,Subheader,website_url,logo_url
+IRD, France,Institut de Recherche pour le Développement,Montpellier,https://www.ird.fr/,https://github.com/PPierre22/phenofleet/blob/main/pictures/IRD_logo_1.png
+AMAP, France,AMAP laboratory,Montpellier,https://amap.cirad.fr/,https://github.com/PPierre22/phenofleet/blob/main/pictures/AMAP_logo.jpg
+UYI, Cameroon,Université de Yaoundé I,Yaoundé,https://uy1.uninet.cm/,https://github.com/PPierre22/phenofleet/blob/main/pictures/UYI.png
+LaBosystE, Cameroon,LaBosystE laboratory,Yaoundé,,https://github.com/PPierre22/phenofleet/blob/main/pictures/logo_labosyste.png
+ENEF, Cameroon,Ecole Nationale des Eaux et Forêts,Mbalmayo,https://enefcameroun.cm/,https://github.com/PPierre22/phenofleet/blob/main/pictures/Logo_ENEF_highRes.jpg
+BRLU, Belgium,Herbarium of Université Libre de Bruxelles,Brussels,https://evb.ulb.be/wordpress/herbarium/,https://github.com/gdauby/cafriplots_repo/blob/main/logos/brlu.png
+MBG,USA,Missouri Botanical Garden,Central African program,https://www.missouribotanicalgarden.org/,https://github.com/gdauby/cafriplots_repo/blob/main/logos/avatar.png
+ISEA, Democratic Republic of the Congo,Institut Supérieur d’Etudes Agronomiques de Bengamisa,Kisangani,,https://github.com/PPierre22/phenofleet/blob/main/pictures/LOGO%20ISEA%20BENGAMISA.png
+TERRA , Belgium,Gembloux Agro-Bio Tech,Gembloux,https://www.terra.uliege.be/,https://github.com/PPierre22/phenofleet/blob/main/pictures/TERRA_Gembloux.png
