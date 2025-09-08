@@ -5,7 +5,7 @@ Le Réseau de Parcelles Forestières d'Afrique Centrale (cafriPlot) vise à amé
 En collectant des données cohérentes et de haute qualité dans divers écosystèmes forestiers, nous fournissons des informations cruciales pour la conservation, la gestion forestière durable et les stratégies d'atténuation du changement climatique.
 
 # Histoire
-Établi en 2010, cafriPlot a commencé comme une collaboration entre des institutions de recherche au Cameroun et en France. Aujourd'hui, cafriPlot représente l'un des réseaux les plus étendus de parcelles d'échantillonnage forestier permanentes en Afrique, contribuant des données précieuses aux initiatives mondiales de surveillance forestière.
+Établi en 2010, cafriPlot a commencé comme une collaboration entre des institutions de recherche au Cameroun et en France. Aujourd'hui, cafriPlot représente l'un des réseaux les plus étendus de parcelles d'échantillonnage forestier permanentes en Afrique, contribuant des données cruciales aux initiatives mondiales de surveillance forestière.
 
 # Points forts
 
