@@ -12,7 +12,7 @@ En collectant des données cohérentes et de haute qualité dans divers écosyst
 Trois points forts du réseau que nous souhaitons mettre en évidence :
 
 1. Excellent géoréférencement des limites de parcelles qui permet une congruence précise avec les produits de télédétection.
-2. Mises à jour taxonomiques régulières grâce à plus de 3000 collections d'herbier liées aux individus des parcelles. Ces collections d'herbier sont stockées au BRLU (Herbarium and Library of African Botany, Bruxelles Belgique).
+2. Mises à jour taxonomiques régulières grâce à plus de 4000 collections d'herbier liées aux individus des parcelles. Ces collections d'herbier sont stockées au BRLU (Herbarium and Library of African Botany, Bruxelles Belgique).
 3. Échantillons de sol documentant les propriétés édaphiques physiques et chimiques pour de nombreuses parcelles.
 
 # Notre Approche
