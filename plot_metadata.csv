@@ -1,4 +1,4 @@
-"locality_name";"plot_name";"date_Firstcensus";"date_Lastcensus";"number_of_census";"soil_analysis";"longitude";"latitude"
+"locality_name";"plot_name";"date_Firstcensus";"date_Lastcensus";"number_of_census";"soil_analysis";"lon";"lat"
 "Malebo";"117";NA;NA;NA;"no";16.3978934414617;-2.50485964779937
 "Malebo";"123";NA;NA;NA;"no";16.4712042917397;-2.52160446874466
 "Malebo";"148";NA;NA;NA;"no";16.4734547525427;-2.56131448578364
